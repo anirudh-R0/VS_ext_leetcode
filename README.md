@@ -82,14 +82,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Author
-
-Made with ❤️ by Akash. If you find this extension helpful, please give it a ⭐ on [GitHub](https://github.com/akash-singh112).
-
-Also, if you encounter any issues, or have any questions, feel free to contact me at [akashsingh242678@gmail.com](akashsingh242678@gmail.com)
