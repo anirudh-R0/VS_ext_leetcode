@@ -21,7 +21,7 @@
 
 ## Demo Video
 
-- Video Link: [Loom Link](https://www.loom.com/share/2285ce0007b04326a039e0bed20b7ac9?sid=fa81ab3a-f924-4dba-9bf9-9d6aa3ff7296)
+- Video Link: [https://jmp.sh/s/cFYRU1edXzfDUav5UUxI]
 
 ---
 
